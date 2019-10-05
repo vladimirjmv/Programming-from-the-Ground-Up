@@ -13,5 +13,5 @@
 #Ignore all .dat files
 **/*.dat
 
-#Ignore all .dat files
+#Ignore all .txt files
 **/*.txt
